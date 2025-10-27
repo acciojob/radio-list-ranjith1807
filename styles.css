@@ -1,10 +1,4 @@
 /*  your css code here. If applicable */
-label{
-	font-size:2rem;
-}
-.even{
-	color:red;
-}
-.btn{
-	padding:30px;
+input:nth-child(even) {
+  color: red;
 }
